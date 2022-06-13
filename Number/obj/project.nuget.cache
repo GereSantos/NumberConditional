@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IoZOkD6L5KKBBKm72FmA1sJZ7XFWHZApBWHjiLLkywmf5qU5mZc+o8u2Ub0uxtvQmpyKuQ2YjLt1NA+99x0Zfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\geremias.bezerra\\source\\repos\\Number\\Number\\Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\geremias.bezerra\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
